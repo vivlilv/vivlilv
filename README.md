@@ -1,4 +1,4 @@
-# Hi, I'm Vova 👋
+# Hi, they call me Vova
 
 > *"We're here to put a dent in the universe. Otherwise why else even be here?"* — Steve Jobs (probably)
 
