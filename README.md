@@ -87,4 +87,4 @@ Broadly — anything with real active users. Marketplaces specifically, because 
 
 ## 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/volodymyr-boiko-0315612a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-boiko-0315612a4/)
