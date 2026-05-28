@@ -5,9 +5,8 @@
 ### 🏆 Tier S — Proud of these
 | | Project | About |
 |---|---|---|
-| 🤖 | **NFT Trading Bot** | Event-driven pipeline for trading & analytics on OpenSea - on hold · [repo](#https://github.com/vivlilv/nft_flipper_os_event_driven) |
-| 🤖 | **NFT Pulse** | The next gen of **NFT Trading Bot** written in Go — _**Active development**_ · [repo](#https://github.com/vivlilv/go-nft-pulse) |
-
+| 🤖 | **NFT Trading Bot** | Event-driven pipeline for trading & analytics on OpenSea · [repo](https://github.com/vivlilv/nft_flipper_os_event_driven) |
+| 🤖 | **NFT Pulse** | The next gen of **NFT Trading Bot** written in Go — _**Active development**_ · [repo](https://github.com/vivlilv/go-nft-pulse) |
 ---
 
 ### 😬 Tier A — A year ago it was S tier... I cringe hard from my own code
@@ -22,9 +21,8 @@
 ### 📖 Tier B — "Copycat" tutorials, mainly to see how others build
 | | Project | About |
 |---|---|---|
-| 🐹 | **Production-ready Todo App** | Golang, on hold — covered the basics [Original](https://www.youtube.com/watch?v=uxzZJw-52qk)|(2026)
-| 📕 | **Pokedex by Frank** | Some basic Notion + Pokemon API [Original](https://www.youtube.com/watch?v=ec5m6t77eYM)|(2024)
----
+| 🐹 | [**Production-ready Todo App**](https://github.com/vivlilv/golang_todoapp) | Golang, on hold — covered the basics · [Original](https://www.youtube.com/watch?v=uxzZJw-52qk) *(2026)* |
+| 📕 | **Pokedex by Frank** | Some basic Notion + Pokemon API · [Original](https://www.youtube.com/watch?v=ec5m6t77eYM) *(2024)* |
 
 ### 🧠 Things I've touched along the way
 | Area | Notes |
