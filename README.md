@@ -1,37 +1,59 @@
 # Hi, they call me Vova
 
-> *"We're here to put a dent in the universe. Otherwise why else even be here?"* — Steve Jobs (probably)
+## 🚀 A few things I've built
+
+### 🏆 Tier S — Proud of these
+| | Project | About |
+|---|---|---|
+| 🤖 | **NFT Trading Bot** | Event-driven pipeline for trading & analytics on OpenSea - on hold · [repo](#https://github.com/vivlilv/nft_flipper_os_event_driven) |
+| 🤖 | **NFT Pulse** | The next gen of **NFT Trading Bot** written in Go — _**Active development**_ · [repo](#https://github.com/vivlilv/go-nft-pulse) |
 
 ---
 
-## 🚀 A few things I've built
-
+### 😬 Tier A — A year ago it was S tier... I cringe hard from my own code
 | | Project | About |
 |---|---|---|
-| 🤖 | **NFT Trading Bot** | Event-driven architecture for trading on OpenSea marketplace — [repo](#) |
-| ⚙️ | **Blockchain Game Automation** | All-in-one software: account registration, card farming, deck building — [repo](#) |
-| 📜 | **Django backend** | REST APIs for web projects |
-| 📜 | **React frontend** | UI for web projects |
+| ⚙️ | **Web2/Web3 Game Automation** | All-in-one: account registration, card farming, deck building (2025) - **_archived_** |
+| 🔧 | **Automation scripts & parsers** | Fun scraping & automation stuff *(2024)* |
+| 🐍 | **Django backends** | REST APIs + some React frontend for early web projects *(early 2023)* |
+
+---
+
+### 📖 Tier B — "Copycat" tutorials, mainly to see how others build
+| | Project | About |
+|---|---|---|
+| 🐹 | **Production-ready Todo App** | Golang, on hold — covered the basics [Original](https://www.youtube.com/watch?v=uxzZJw-52qk)|(2026)
+| 📕 | **Pokedex by Frank** | Some basic Notion + Pokemon API [Original](https://www.youtube.com/watch?v=ec5m6t77eYM)|(2024)
+---
+
+### 🧠 Things I've touched along the way
+| Area | Notes |
+|---|---|
+| **Databases** | Read/write locks, transactions, optimistic & pessimistic locking |
+| **Docker & servers** | Containerised projects, deployed on remote VPS |
+| **Linux** | 2 years daily — 6mo Ubuntu → 1.5yr Arch |
+| **Rust + Solana** | 2 months: demo smart contracts, explored Solana ecosystem |
+
 
 ---
 
 ## 📖 Currently
 
 **Learning Go by building:**
-1. Rewriting the NFT trading bot from JS/TS → Go, adding analytics functionality
-2. Todo app backend with PostgreSQL — DB transactions, read/write locks, optimistic updates *(on hold)*
+1. Improving the NFT trading bot from JS/TS → Go, adding analytics functionality
+2. Todo app backend with PostgreSQL — DB transactions, read/write locks, optimistic updates
 
 **How I work:**
 - 🤖 **AI as mentor/buddy** — keeping full context of app architecture, planning next steps and concepts to cover per feature
 - 🔁 **Evolution concept** — adopt new habits along the way, keep what sticks: cleaner commits, definition of done
-- 🟢 **Job status:** Applying to Vinted Engineering Academy — backend track
+- **Minimalism** - neovim, tmux sessions(switch between tabs fast), Obsidian for notes and some browser tabs. 
 
 ---
 
 ## 🧠 What I'm into
 
 Broadly — anything with real active users. Marketplaces specifically, because they give you a never-ending loop:
-**users interact → you learn → you improve → they interact differently.** That loop never gets boring.
+**users interact → you learn → you improve → they interact differently.** 
 
 - **Backend** — non-trivial decisions, systems that scale, understanding how the world operates under the hood
 - **Event-driven systems** — WebSockets, orderbooks, real-time pipelines
@@ -67,5 +89,4 @@ Broadly — anything with real active users. Marketplaces specifically, because 
 
 ## 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/volodymyr-boiko-0315612a4/)
